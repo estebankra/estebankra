@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/estebankra"><img src="https://api.daily.dev/devcards/7dab5c11fa8646debe3514ffb7cb7f44.png?r=ome" width="400" alt="Esteban Krauwezuk's Dev Card"/></a>
+<a href="https://app.daily.dev/estebankra"><img src="https://github.com/estebankra/estebankra/blob/development/devcard.svg" width="400" alt="Esteban Krauwezuk's Dev Card"/></a>
 
 <!--
 **estebankra/estebankra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
