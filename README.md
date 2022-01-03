@@ -1,8 +1,32 @@
-### Hi there 👋
+# Hi there 👋
+
+<div align="left">
+  <a href="https://twitter.com/estebankra">
+    <img
+      src="https://img.shields.io/twitter/follow/estebankra?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://linkedin.com/in/estebankra">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://app.daily.dev/estebankra" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/estebankra/estebankra/blob/development/devcard.svg"
+    />
+  </a>
+</div>
+
+<br />
 
 ![Metrics](https://metrics.lecoq.io/estebankra)
 
-<a href="https://app.daily.dev/estebankra"><img src="https://github.com/estebankra/estebankra/blob/development/devcard.svg" width="400" alt="Esteban Krauwezuk's Dev Card"/></a>
 
 <!--
 **estebankra/estebankra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
