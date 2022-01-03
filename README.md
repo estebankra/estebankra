@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/estebankra)
+
 <a href="https://app.daily.dev/estebankra"><img src="https://github.com/estebankra/estebankra/blob/development/devcard.svg" width="400" alt="Esteban Krauwezuk's Dev Card"/></a>
 
 <!--
