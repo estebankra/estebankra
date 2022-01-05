@@ -23,11 +23,6 @@
   </a>
 </div>
 
-<br />
-
-![Metrics](https://metrics.lecoq.io/estebankra)
-
-
 <!--
 **estebankra/estebankra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
