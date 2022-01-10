@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<div align="left">
+<div>
   <a href="https://twitter.com/estebankra">
     <img
       src="https://img.shields.io/twitter/follow/estebankra?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
@@ -13,11 +13,11 @@
       alt="LinkedIn"
     />
   </a>
-
+</div>
+<div>
   <a href="https://app.daily.dev/estebankra" target="_blank">
     <img
       width="256"
-      align="right"
       src="https://github.com/estebankra/estebankra/blob/development/devcard.svg"
     />
   </a>
